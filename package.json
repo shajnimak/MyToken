@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "dotenv": "^16.3.2",
+    "openzeppelin-contracts": "^4.0.0",
+    "solc": "^0.8.23-fixed",
+    "solidity": "^0.0.1",
+    "web3": "^4.4.0",
+    "zeppelin-solidity": "^1.12.0"
+  }
+}
